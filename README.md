@@ -5,8 +5,8 @@
 
 <br>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=luisitoo288&label=Visitas%20al%20perfil&color=0047AB&style=plastic?" alt="luisitoo288" height="25px" width="160px"/> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=luisitoo288&label=Visitas%20al%20perfil&color=0047AB&style=plastic?" alt="luisitoo288" height="25px" width="160px"/>
 </p>
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Sobre mí
@@ -23,27 +23,26 @@
 
 <br>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Conéctate conmigo
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"></picture> Conéctate conmigo
 <p align="center">
-	<a href="https://github.com/luisitoo288"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://discord.com"><img src="https://img.shields.io/badge/discord-%237289DA.svg?style=plastic&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://github.com/luisitoo288"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://discord.com"><img src="https://img.shields.io/badge/discord-%237289DA.svg?style=plastic&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
 
 ## 🛠️ Mis Habilidades
 
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="50px"> </picture> Desarrollo Frontend y Lenguajes
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="50px"></picture> Desarrollo Frontend y Lenguajes
+<p align="center">
+  <a href="https://www.w3.org/html/" target="_blank">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>    
+  </a>
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
+  </a>
   &emsp;
-  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"> 
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
   </a>
   &emsp;
@@ -52,40 +51,39 @@
   </a>
 </p>
 
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px"> </picture> Herramientas y Software
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px"></picture> Herramientas y Software
 <p align="center">
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
+  <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
 </p>
 
-<br> 
+<br>
 
 ---
 
 <p align="center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming"></a>
+  <a href="https://github.com/piyushsuthar/github-readme-quotes"><img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming"></a>
 </p>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"> </picture> Estadísticas de GitHub
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"></picture> Estadísticas de GitHub
 
 <details><summary><h3> 🔥 Racha de Actividad</h3></summary>
 
-----	
+---
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=luisitoo288&theme=tokyonight_duo" alt="luisitoo288" /></p>
 
 </details>
-  
+
 <details><summary><h3>💻 Estadísticas del Perfil</h3></summary>
 
-----
-	
+---
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="Estadísticas de GitHub de luisitoo288" src="https://github-readme-stats.vercel.app/api?username=luisitoo288&show_icons=true&count_private=true&locale=es&theme=tokyonight&layout=compact" height="230px"/>
@@ -94,22 +92,5 @@
 </p>
 </details>
 
-<details><summary> <h3> :trophy: Trofeos de Perfil </h3></summary>
-
-----
-	
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=luisitoo288&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="luisitoo288" />
-  </a> 
-</p>
-	
-</details>
 
 <br><br>
-	
-## 🐍 Serpiente Comiéndose mi Gráfico de Contribuciones
-	
-<p align="center">
-	<img src="https://raw.githubusercontent.com/luisitoo288/luisitoo288/output/github-contribution-grid-snake.svg" alt="Juego de la Serpiente"/>
-</p>
